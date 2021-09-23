@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee management app which has builted using MySql2, Inquirer Packages, and node.js.",
+  "main": "server.js",
+  "dependencies": {
+    "ascii-art-font": "^1.0.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajesh295-dev/Employee-Tracker.git"
+  },
+  "author": "Rajesh Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajesh295-dev/Employee-Tracker/issues"
+  }
+}
