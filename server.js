@@ -113,7 +113,7 @@ function viewAllEmployees() {
       .then(() => showPrompts());
 }
 
-// Funstion to show all roles
+// Function to show all roles
 function viewAllRoles() {
   dataB.allRoles()
       .then(([rows]) => {
